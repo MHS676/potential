@@ -24,7 +24,7 @@ const Banner = () => {
             <img className=' relative -top-[300px] left-[1px] h-[250px] w-[400px]'  src="../../public/03.png" alt="" />
         </div>
         <div
-    className="absolute top-[290px] left-[1240px] w-[300px] h-[65px] bg-orange-500 opacity-80"
+    className="absolute top-[290px] left-[1240px] w-[300px] h-[64px] bg-orange-500 opacity-80"
   ></div>
         <div className='flex gap-4 text-4xl -mt-14 ml-24'>
             <FaSquareFacebook />
